@@ -15,7 +15,7 @@ export default class ContactPage extends React.Component
                 <FontAwesome onClick={(e)=>{window.open("https://www.linkedin.com/in/mo-aziz-8b9744178/")}} className="fa-2x fa-linkedin"/>
                 <FontAwesome onClick={(e)=>{window.open("https://www.github.com/MoAziz123")}} className="fa-2x fa-github"/>
             </div>
-                    <form method="post" action="./mail.php">
+                    <form method="post" action="http://formspree.io/mohammed4685@outlook.com">
                     <div className="input-row">
                         <text>Name:</text>
                         <br/>
@@ -29,12 +29,12 @@ export default class ContactPage extends React.Component
                     <div className="input-row">
                         <text>Email:</text>
                         <br/>
-                        <input type="email" name="email" required/>
+                        <input type="email" name="_replyto" required/>
                     </div>
                     <div className="input-row">
                         <text>Message:</text>
                         <br/>
-                        <textarea rows="1" cols="50" wrap="physical"  name="message" required/>
+                        <textarea rows="1" cols="50" wrap="physical"  name="body" required/>
                     </div>
                     <div className="input-row">
                     <button type="submit">Send</button>
