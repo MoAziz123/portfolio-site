@@ -32,7 +32,6 @@ export default class NavBar extends React.Component{
         this.setState({
             redirect:link
         })
-        console.log(this.state.redirect, window.location.pathname)
     }
     componentDidMount()
     {

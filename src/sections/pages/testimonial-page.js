@@ -12,7 +12,7 @@ export default class TestimonialPage extends React.Component
             <h1 className="box-title">Testimonials</h1>
             <div className="main-page testimonial-page">
                 <div className="testimonial-section">
-                    <div className="grid-item">
+                    <div className="grid-item fade-in">
                         <img alt="" src=""/>
                         <div className="test-description">
                         <h2>Gaynor Forryan</h2>
@@ -25,7 +25,7 @@ export default class TestimonialPage extends React.Component
                             <FontAwesome className="fa-2x fa-quote-right"/>
                         </div>
                     </div>
-                    <div className="grid-item">
+                    <div className="grid-item fade-in">
                         <img alt="" src=""/>
                         <div className="test-description">
                         <h2>Brandon Bridges</h2>
@@ -35,7 +35,7 @@ export default class TestimonialPage extends React.Component
                             <FontAwesome className="fa-2x fa-quote-right"/>
                         </div>
                     </div>
-                    <div className="grid-item">
+                    <div className="grid-item fade-in">
                         <img alt="" src=""/>
                         <div className="test-description">
                         <h2>Will Briers</h2>
