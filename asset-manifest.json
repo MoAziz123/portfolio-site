@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio-site.git/static/css/main.e15cea92.chunk.css",
+    "main.js": "/portfolio-site.git/static/js/main.050c8810.chunk.js",
+    "main.js.map": "/portfolio-site.git/static/js/main.050c8810.chunk.js.map",
+    "runtime-main.js": "/portfolio-site.git/static/js/runtime-main.def808ff.js",
+    "runtime-main.js.map": "/portfolio-site.git/static/js/runtime-main.def808ff.js.map",
+    "static/css/2.e07039c1.chunk.css": "/portfolio-site.git/static/css/2.e07039c1.chunk.css",
+    "static/js/2.d0aab548.chunk.js": "/portfolio-site.git/static/js/2.d0aab548.chunk.js",
+    "static/js/2.d0aab548.chunk.js.map": "/portfolio-site.git/static/js/2.d0aab548.chunk.js.map",
+    "index.html": "/portfolio-site.git/index.html",
+    "precache-manifest.8a5fa3f7099a8454a3977f5805cb548a.js": "/portfolio-site.git/precache-manifest.8a5fa3f7099a8454a3977f5805cb548a.js",
+    "service-worker.js": "/portfolio-site.git/service-worker.js",
+    "static/css/2.e07039c1.chunk.css.map": "/portfolio-site.git/static/css/2.e07039c1.chunk.css.map",
+    "static/css/main.e15cea92.chunk.css.map": "/portfolio-site.git/static/css/main.e15cea92.chunk.css.map",
+    "static/js/2.d0aab548.chunk.js.LICENSE.txt": "/portfolio-site.git/static/js/2.d0aab548.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio-site.git/static/media/Rokkitt-Medium.f6ce3558.ttf",
+    "static/media/csharplogo.png": "/portfolio-site.git/static/media/csharplogo.51fd3720.png",
+    "static/media/font-awesome.min.css": "/portfolio-site.git/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/htmlogo.png": "/portfolio-site.git/static/media/htmlogo.3ea353cd.png",
+    "static/media/javalogo.png": "/portfolio-site.git/static/media/javalogo.652fdb65.png",
+    "static/media/logo.svg": "/portfolio-site.git/static/media/logo.5d5d9eef.svg",
+    "static/media/mongologo.png": "/portfolio-site.git/static/media/mongologo.0fbd04cb.png",
+    "static/media/nodelogo.png": "/portfolio-site.git/static/media/nodelogo.67db45dc.png",
+    "static/media/phplogo.png": "/portfolio-site.git/static/media/phplogo.88ec78cf.png",
+    "static/media/profilepic.jpg": "/portfolio-site.git/static/media/profilepic.7104884e.jpg",
+    "static/media/react-logo.png.png": "/portfolio-site.git/static/media/react-logo.png.70f87bba.png",
+    "static/media/sqllogo.png": "/portfolio-site.git/static/media/sqllogo.1ee431af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.def808ff.js",
+    "static/css/2.e07039c1.chunk.css",
+    "static/js/2.d0aab548.chunk.js",
+    "static/css/main.e15cea92.chunk.css",
+    "static/js/main.050c8810.chunk.js"
+  ]
+}
