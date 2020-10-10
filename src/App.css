@@ -70,7 +70,11 @@ body
   padding:1.5em 0 1.5em 0;
   color:white;
 }
-
+.link-text::after
+{
+  content:("__");
+  color:black;
+}
 .link-text
 {
   color:white;
