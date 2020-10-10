@@ -16,6 +16,7 @@
     "react-scripts": "3.4.3",
     "sass": "^1.27.0"
   },
+  "homepage":"http://MoAziz123.github.io/portfolio-site",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
