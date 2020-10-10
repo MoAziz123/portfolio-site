@@ -1,6 +1,6 @@
 //modules
 import React from 'react';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
+import {HashRouter as Router, Switch, Route} from 'react-router-dom'
 //css
 import logo from './logo.svg';
 import './App.css';
