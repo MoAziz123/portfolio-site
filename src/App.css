@@ -257,6 +257,7 @@ font-style: italic;
 }
 .input-row
 {
+  font-family:monospace;
   margin-bottom:1em;
 }
 .input-row text
