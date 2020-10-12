@@ -83,11 +83,11 @@ export default class CVPage extends React.Component
                             was how to deal with customers, and how to build quality software to a specification standard.</p>
                         </div>
                         <div className="cv-column">
-                            <h3>Fullstack Developer Internship - Visually Digital</h3>
+                            <h3>Fullstack Developer - Visually Digital</h3>
                             <text>June 2020 - Aug 2020</text>
                             <p>This role was part of a small web design company, consisting of myself, the senior developer/CEO, and a graphic designer. This role
-                            consisted of me building an application in the MERN stack - a bug tracker built to a high quality. This included learning about HTTP policies, as well as 
-                            what to include in a web application. </p>
+                            consisted of me building an application in the MERN stack - a bug tracker. This included learning about HTTP, JSON web token authentication, security policies
+                            and to configure an application. </p>
                         </div>
                         <div className="cv-column">
                             <h3>OMS - Upstage Supplies (Placement)</h3>
