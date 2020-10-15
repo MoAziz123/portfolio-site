@@ -32,9 +32,9 @@ export default class MainPage extends React.Component{
         }
         return(
             <div className="main-box">
-            <div className="main-page fade-in">
+            <div className="main-page">
                 <h1 className="box-title">Portfolio</h1>
-                <div className="button-row">
+                <div className="button-row  fade-in">
                     <div name="/about" className="page-button">
                         <FontAwesome onClick={(e)=>{this.handleRedirect("about")}} className="fa-4x fa-user page-button icon"/>
                         <text>about</text>
