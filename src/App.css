@@ -8,7 +8,7 @@ body
 {
   margin:0;
   padding:0;
-  background-color:black;
+  background-color:#14110F;
 
 }
 .App
@@ -208,7 +208,7 @@ font-style: italic;
 .about-column p
 {
   line-height: 1.3em;
-  font-size:1.2em;
+  font-size:1.1em;
 }
 
 @media only screen and (max-width:768px)

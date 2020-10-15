@@ -9,7 +9,7 @@ export default class ContactPage extends React.Component
             <div className="main-box">
             <h1 className="box-title">Contact</h1>
             <div className=" main-page contact-page">
-                <div className="contact-form">
+                <div className="contact-form fade-in">
                 <div className="social-links">
                 <FontAwesome onClick={(e)=>{window.open("https://www.facebook.com/mo.aziz.71271/")}} className="fa-2x fa-facebook"/>
                 <FontAwesome onClick={(e)=>{window.open("https://www.linkedin.com/in/mo-aziz-8b9744178/")}} className="fa-2x fa-linkedin"/>
