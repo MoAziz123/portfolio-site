@@ -32,7 +32,7 @@ export default class MainPage extends React.Component{
         }
         return(
             <div className="main-box">
-            <div className="main-page">
+            <div className="main-page fade-in">
                 <h1 className="box-title">Portfolio</h1>
                 <div className="button-row">
                     <div name="/about" className="page-button">
